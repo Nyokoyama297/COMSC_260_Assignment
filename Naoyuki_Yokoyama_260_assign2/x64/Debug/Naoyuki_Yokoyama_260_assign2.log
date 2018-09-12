@@ -1,0 +1,6 @@
+﻿  Naoyuki_Yokoyama_260_assign2.cpp
+c:\z\dvc\comsc 260\comsc_260_assignment\naoyuki_yokoyama_260_assign2\naoyuki_yokoyama_260_assign2.cpp(57): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\z\dvc\comsc 260\comsc_260_assignment\naoyuki_yokoyama_260_assign2\naoyuki_yokoyama_260_assign2.cpp(77): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\z\dvc\comsc 260\comsc_260_assignment\naoyuki_yokoyama_260_assign2\naoyuki_yokoyama_260_assign2.cpp(88): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+c:\z\dvc\comsc 260\comsc_260_assignment\naoyuki_yokoyama_260_assign2\naoyuki_yokoyama_260_assign2.cpp(112): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Naoyuki_Yokoyama_260_assign2.vcxproj -> C:\z\DVC\COMSC 260\COMSC_260_Assignment\x64\Debug\Naoyuki_Yokoyama_260_assign2.exe
